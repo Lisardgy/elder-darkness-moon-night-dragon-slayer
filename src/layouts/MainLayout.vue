@@ -88,7 +88,7 @@ const linksList = [
   {
     title: "สถิติผู้ติดเชื้อ",
     icon: "query_stats",
-    link: "https://awesome.quasar.dev",
+    link: "static-page",
   },
 ];
 
